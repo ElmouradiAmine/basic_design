@@ -1,5 +1,6 @@
 # app_design
 This is a small basic one page app with some basic design! great !
+It has been created using flutter with dart langage.
 ![](https://github.com/ElmouradiAmine/basic_design/blob/master/screenshots/screenshot.png
 )
 ## Getting Started

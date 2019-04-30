@@ -1,6 +1,7 @@
 # app_design
 This is a small basic one page app with some basic design! great !
-
+![](https://github.com/ElmouradiAmine/basic_design/blob/master/screenshots/screenshot.png
+)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
